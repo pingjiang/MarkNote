@@ -10,4 +10,5 @@
 
 @interface PJDocument : NSDocument
 
+
 @end
